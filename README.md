@@ -1,4 +1,4 @@
-# Hi! My Name is William Yulio, you can call me William 👋
+# Hello👋! My Name is William Yulio
 
 
 ## Currently, I'm studying at BINUS University and majoring in Computer Science
